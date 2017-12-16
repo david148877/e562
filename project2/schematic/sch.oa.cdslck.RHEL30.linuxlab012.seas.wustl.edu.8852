@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pohsuchen
+HostName                       linuxlab012.seas.wustl.edu
+ProcessIdentifier              8852
+ProcessCreationTime_UTC        1512521518
+ProcessCreationTime_Readable   Tue Dec  5 18:51:58 2017 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/warehouse/pohsuchen/ECE412/project2/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Dec  5 21:08:03 2017 CST
